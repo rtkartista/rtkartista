@@ -30,11 +30,12 @@ I love swimming and exploring local cafes! If you’re up for a short hike, coun
 
 </td>
 <td align="center">
-
-<img src="images/keypoints.png" alt="Keypoints" width="300"/>
-<img src="images/gif_ukf.gif" alt="UKF GIF" width="300"/>
-<img src="images/gif2.gif" alt="GIF 2" width="300"/>
-<img src="images/box_plot.png" alt="Box Plot" width="300"/>
+    
+### 🤖 Past projects
+- <img src="images/keypoints.png" alt="Keypoints" width="300"/>
+- <img src="images/gif_ukf.gif" alt="UKF GIF" width="300"/>
+- <img src="images/gif2.gif" alt="GIF 2" width="300"/>
+- <img src="images/box_plot.png" alt="Box Plot" width="300"/>
 
 </td>
 </tr>
