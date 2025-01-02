@@ -1,12 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
+<h1 align="center">
+I'm Ritika, feel free to explore my repos and connect to collab or discuss robotics, sensor fusion, or exciting tech challenges in ML!  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 
+
+</h1>
 
 <table>
 <tr>
 <td style="width: 70%;">
     
-## Hi there 👋  I'm Ritika A. 
-**Robotics Engineer | Sensor Fusion & ADAS Engineer**  
-
+  **Robotics Engineer | Sensor Fusion & ADAS Engineer**    
 🔗 [LinkedIn](https://linkedin.com/in/ritikaavadha/) | [GitHub](https://github.com/rtkartista) | [Portfolio](https://sites.google.com/oregonstate.edu/ritikaavadhanula)  
 
 ### 🔭 I’m currently working on  
@@ -24,16 +29,14 @@
 ### ⚡ Fun fact  
 I love swimming and exploring local cafes! If you’re up for a short hike, count me in. 🚶‍♀️☕✨  
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Feel free to explore my repos and connect to collab or discuss robotics, sensor fusion, or exciting tech challenges in ML!  
-
 </td>
 <td align="center">
     
 ### 🤖 Past projects
-- <img src="images/keypoints.png" alt="Keypoints" width="300"/>
-- <img src="images/gif_ukf.gif" alt="UKF GIF" width="300"/>
-- <img src="images/gif2.gif" alt="GIF 2" width="300"/>
-- <img src="images/box_plot.png" alt="Box Plot" width="300"/>
+- <img src="images/keypoints.png" alt="Keypoints" width="200"/>
+- <img src="images/gif_ukf.gif" alt="UKF GIF" width="200"/>
+- <img src="images/gif2.gif" alt="GIF 2" width="200"/>
+- <img src="images/box_plot.png" alt="Box Plot" width="200"/>
 
 </td>
 </tr>
