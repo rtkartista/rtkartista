@@ -45,14 +45,21 @@ Here are some ideas to get you started:
 ### 💬 Ask me about  
 - Sensor Fusion for self-driving cars.  
 - Developing efficient localization pipelines.  
-- Leveraging AI for robotics applications.  
+- Leveraging AI for robotics applications.
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="images/keypoints.png" alt="Keypoints" width="400" height="250"/>
+    <img src="images/gif_ukf.gif" alt="UKF GIF" width="400" height="250"/>
+    <img src="images/gif2.gif" alt="GIF 2" width="400" height="250"/>
+    <img src="images/box_plot.png" alt="Box Plot" width="400" height="250"/>
+</div>
 
 ---
 
 ### 📫 How to reach me  
 - **Email**: [ritikakgp2609@gmail.com](mailto:ritikakgp2609@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/ritikaavadha/](https://linkedin.com/in/ritikaavadha/)  
-
+- **Portfolio**: [More Projects](https://sites.google.com/oregonstate.edu/ritikaavadhanula)  
 ---
 
 ### ⚡ Fun fact  
@@ -74,17 +81,6 @@ I love swimming and exploring local cafes! If you’re up for a short hike, coun
 - Open Communication  
 - Self-motivated Learning  
 - Cross-functional Collaboration  
-
----
-
-### 🌟 Projects  
-- **Multiple Sensor Fusion for Self-Driving Cars**  
-  Developed collision detection pipelines integrating LiDAR, radar, and camera data.  
-- **Routing and Localization with Turtlebot3**  
-  Designed real-time SLAM with optimization algorithms for autonomous navigation.  
-- **Deep Q-Learning-Based Search and Exploration**  
-  Enhanced search speed by 100x using deep Q-networks.  
-- [More Projects](https://sites.google.com/oregonstate.edu/ritikaavadhanula)  
 
 ---
 
