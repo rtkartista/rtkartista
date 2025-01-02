@@ -7,8 +7,6 @@
 ## Hi there 👋  I'm Ritika A. 
 **Robotics Engineer | Sensor Fusion & ADAS Engineer**  
 
-📍 California, USA  
-📧 [ritikakgp2609@gmail.com](mailto:ritikakgp2609@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/ritikaavadha/) | [GitHub](https://github.com/rtkartista) | [Portfolio](https://sites.google.com/oregonstate.edu/ritikaavadhanula)  
 
 ### 🔭 I’m currently working on  
